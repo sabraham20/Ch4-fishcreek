@@ -1,0 +1,44 @@
+body   {
+  background-color: #6699ff;
+  color: #d5e3ff;
+  font-family: Arial,sans-serif;;
+}
+
+header  {
+  background-color: #6699ff;
+  color: #003366;
+	font-family: Arial, sans-serif;
+}
+
+h1  {
+  line-height: 200%;
+  color: #003366;
+  font-family: Arial, sans-serif;;
+  text-align: center;
+}
+
+nav  {
+  font-weight: bold;
+  height: 25px;
+	text-align: center;
+}
+
+.category {
+  font-weight: bold;
+  background-color: #6699ff;
+	color: #003366;
+  font-size: 1.1em;
+	text-shadow: 1px 1px 1px #666;
+}
+
+footer  {
+  font-size: .70em;
+  font-style: italic;
+}
+
+#wrapper {
+  margin-left:0 auto;
+  margin-right: 0 auto;
+	min-width: 700px;
+
+}
